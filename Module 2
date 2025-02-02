@@ -1,12 +1,12 @@
-Q1. For certain services like Amazon Elastic Compute Cloud (Amazon EC2) and 
+AWS Academy Cloud Foundation
+Module 2-Cloud Economics and Billing
 
-       Amazon Relational Database Service (Amazon RDS), you can invest in reserved capacity. 
-       What options are available for Reserved Instances?
-
-Answer: 
-              AURI
-              NURI
-              PURI
+Q1. For certain services like Amazon Elastic Compute Cloud (Amazon EC2) and Amazon Relational Database Service (Amazon RDS), you can invest in reserved capacity.What options are available for Reserved Instances?
+    a)
+Answer: AURI
+        NURI
+        PURI
+              
 
 Q2. Where can a customer go to get more details about Amazon Elastic Compute Cloud 
        (Amazon EC2) billing activity that took the place 3 months ago?
