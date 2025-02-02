@@ -2,71 +2,88 @@ AWS Academy Cloud Foundation
 Module 1-Cloud Concepts Overview
 
 Q1. What are the advantages of cloud computing over computing on-premises?
+    a)Avoid large capital purchases
+    b)Use on-demand capacity
+    c)Increase speed and agility
+    d)Go global in minutes
+    e)All of the above
 
-Answer: 
-
-
-Avoid large capital purchases
-
-Use on-demand capacity
-
-Increase speed and agility
-
-All of the above
-
+Answer: e)All of the above
 
 Q2. What is the pricing model that enables AWS customers to pay for resources on an as-needed basis?
+    a)Pay as you decommission
+    b)Pay as you go
+    c)Pay as you buy
+    d)Pay as you reserve
 
-Answer: 
+Answer: b)Pay as you go
 
-   Pay as you go
+Q3. Which of these is not a cloud model?
+    a)Platform as a service 
+    b)Infrastructure as a service
+    c)System administration as a service
+    d)Software as a service
+   
+Answer: c)System administration as a service
 
-Q3. Which of these is not a cloud deployment
+Q4. True of False? AWS owns and maintains the network-connected hardware required for application services, while you provision and use what you need.
+    a)True
+    b)False
 
-Answer: 
-
-    System administration as a service
-
-Q4. True of False? AWS owns and maintains the network-connected hardware required for 
-
-       application services, while you provision and use what you need.
-
-Answer: 
-
-       True
+Answer: a)True
 
 Q5. Which of these is not a benefit of cloud computing over on-premises computing?
+    a)Increase speed and agility
+    b)Pay for racking, stacking, and powering services 
+    c)Eliminate guessing on your infrastructure capacity needs
+    d)Trade capital expense for variable expense
+    e)Benefit from massive economies of scale
 
-Answer: 
+Answer: b)Pay for racking, stacking, and powering services 
 
-       Pay for racking, stacking, and powering services
+Q6. Which of the following are not benefits of AWS Cloud computing?(Choose two)
+    a)Multiple procurement cycles
+    b)High availability
+    c)High latency
+    d)Temporary and disposable resource
+    e)Fault-tolerant databases
 
-Q6. Which of the following are not benefits of AWS Cloud computing?
-
-
-Answer: 
-
-      High Latency
-
-      Multiple procurement cycles
+Answer: c)High Latency
+        b)Multiple procurement cycles
 
 Q7. Which of the following is a compute service? (Select the best answer)
+    a)Amazon VPC
+    b)Amazon EC2
+    c)Amazon S3
+    d)Amazon CloudFront
+    e)Amazon RedShift
 
-Answer: 
+Answer: b)Amazon EC2
 
-       Amazon EC2
+Q8. True or False? Cloud Computing provides a simple way to access servers, storage, databases, and a broad set of application services over the internet. You own the network-connected  hardware required for these services and Amazon Web Services provisions what you need.
+    a)True
+    b)False
 
-Q8. True or False? Cloud Computing provides a simple way to access servers, storage, databases, and 
-
-
-       a broad set of application services over the internet. You own the network-connected  hardware required for these services and Amazon Web Services provisions what you need.
-
-Answer: 
-
-       False
+Answer: b)False
 
 Q9. Economics of Scale result from_______
+    a)having many different cloud providers
+    b)having hundreds of thousands of customers aggregated in cloud
+    c)having hundreds of cloud services available over the internet
+    d)having to invest heavily in data centers and servers
 
-Answer: 
+Answer:  b)having hundreds of thousands of customers aggregated in cloud
 
-       having hundreds of thousands of customers aggregated in cloud
+Q10. Which of these are ways to access AWS core services?(choose 3)
+     a)Technical support calls
+     b)AWS MarketPlace
+     c)AWS Management Console
+     d)AWS Command Line Interface(AWS CLI)
+     e)Software Development Kits(SDKs)
+
+Answer: c)AWS Management Console
+        d)AWS Command Line Interface(AWS CLI)
+        e)Software Development Kits(SDKs)
+     
+
+      
