@@ -49,30 +49,25 @@ Q6. What AWS tool lets you explore AWS Services and create an estimate for the c
     
 Answer:  a)AWS Pricing Calculator
              
-Q7. As AWS grows, the cost of doing business is reduced and savings are passed back to the 
-      customer with lower pricing. What is this optimization called?
+Q7. As AWS grows, the cost of doing business is reduced and savings are passed back to the customer with lower pricing. What is this optimization called?
+    a)Expenditure awareness
+    b)Economics of scale
+    c)Matching supply and demand
+    d)EC2 Right sizing
 
-Answer: 
-              Economics of scale
+Answer: b)Economics of scale
+              
+Q8. True or false? AWS offers a variety of services at no charge, for example, Amazon Virtual Private Cloud (Amazon VPC), AWS Identity and Access Management (IAM), Consolidated Billing, AWS Elastic Beanstalk, automatic scaling, AWS Ops Works and AWS CloudFormation. However, you might be charged for other AWS services that you use in conjunction with these services
+    a)True
+    b)False
 
-
-Q8. True or false? AWS offers a variety of services at no charge, for example, Amazon Virtual Private Cloud (Amazon VPC), AWS Identity and Access Management (IAM), 
-       Consolidated Billing, AWS Elastic Beanstalk, automatic scaling, AWS Ops Works and 
-       AWS CloudFormation. However, you might be charged for other AWS services that you use 
-       in conjunction with these services
-
-Answer: 
-                True
-
-
-Q9. When are free data transfers applicable across AWS?
-
+Answer: a)True
+                
+Q9. What are the benifits of using AWS Organisation?
+    a)Replacing existing AWS identity 
 Answer: 
 
-               Free inbound data transfer for Amazon Elastic Computer Cloud (Amazon EC2) instances
-
-               Free outbound data transfer between AWS services within the same Region
-
+              
 
 Q10. True of false? Unlimited services are available with the AWS Free Tier to new AWS customers for 12 months following their AWS sign-up date.
 
