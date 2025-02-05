@@ -63,13 +63,19 @@ Q8. True or false? AWS offers a variety of services at no charge, for example, A
 
 Answer: a)True
                 
-Q9. What are the benifits of using AWS Organisation?
-    a)Replacing existing AWS identity 
-Answer: 
+Q9. What are the benifits of using AWS Organisation?(Choose two)
+    a)Replace existing AWS identity and Access Management(IAM)policies with service control policies(SCPs)Which are simple to manage
+    b)Provides the ability to create groups of accounts and then attach policies to a group
+    c)Provides the ability to create an unlimited number of nested organisational units (OUs) to support your desired structure
+    d)Simplifies automating account creation and management by using APIs
+    e)Prevents any restrictions from being put on the root user that is associated with the main organisation in an account
 
-              
+Answer: b)Provides the ability to create groups of accounts and then attach policies to a group
+        d)Simplifies automating account creation and management by using APIs
 
 Q10. True of false? Unlimited services are available with the AWS Free Tier to new AWS customers for 12 months following their AWS sign-up date.
+     a)True
+     b)False
 
-Answer: 
-               False
+Answer:  b)False 
+             
