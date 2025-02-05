@@ -1,3 +1,6 @@
+AWS Academy Cloud Foundation
+Module 8-Databases
+
 Q1. You are designing an ecommerce web application that will scale to hundreds of thousands 
 
        of concurrent users, Which database technology is best suited to hold the session state in 
